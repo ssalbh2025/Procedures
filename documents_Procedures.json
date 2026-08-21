@@ -69,8 +69,9 @@
     "miseEnLigne": "2026-08-21",
     "auteur": "DE GOURNAY",
     "uid": "pHmLDUCTUHRF810UECwG3c0hZsI3",
-    "fichier": "documents/CSAM_-_Questionnaire_sante_majeur_2026-2027_V1.pdf",
+    "fichier": "documents/CSAM/CSAM_-_Questionnaire_sante_majeur_2026-2027_V1.pdf",
     "mimeType": "application/pdf",
-    "nomFichierOriginal": "CASM - Questionnaire de santé 2026-2027.pdf"
+    "nomFichierOriginal": "CASM - Questionnaire de santé 2026-2027.pdf",
+    "sousDossier": "CSAM"
   }
 ]
