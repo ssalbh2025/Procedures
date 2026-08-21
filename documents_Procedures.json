@@ -34,5 +34,17 @@
     "fichier": "documents/CSAM_-_Cotisation_2026-2027_V1.pdf",
     "mimeType": "application/pdf",
     "nomFichierOriginal": "CSAM - Cotisations 2026-2027.pdf"
+  },
+  {
+    "nomDocument": "CSAM - Beulletin Adhésion 2026-2027",
+    "version": "V1",
+    "debutValidite": "2026-08-21",
+    "finValidite": "2027-08-21",
+    "miseEnLigne": "2026-08-21",
+    "auteur": "DE GOURNAY",
+    "uid": "pHmLDUCTUHRF810UECwG3c0hZsI3",
+    "fichier": "documents/CSAM_-_Beulletin_Adhesion_2026-2027_V1.pdf",
+    "mimeType": "application/pdf",
+    "nomFichierOriginal": "CSAM - Lorient_Bulletin d'adhésion - Saison 2026-2027_V1.pdf"
   }
 ]
