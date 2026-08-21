@@ -31,9 +31,10 @@
     "miseEnLigne": "2026-08-21",
     "auteur": "DE GOURNAY",
     "uid": "pHmLDUCTUHRF810UECwG3c0hZsI3",
-    "fichier": "documents/CSAM_-_Cotisation_2026-2027_V1.pdf",
+    "fichier": "documents/CSAM/CSAM_-_Cotisation_2026-2027_V1.pdf",
     "mimeType": "application/pdf",
-    "nomFichierOriginal": "CSAM - Cotisations 2026-2027.pdf"
+    "nomFichierOriginal": "CSAM - Cotisations 2026-2027.pdf",
+    "sousDossier": "CSAM"
   },
   {
     "nomDocument": "CSAM - Bulletin Adhésion 2026-2027",
