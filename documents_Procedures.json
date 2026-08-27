@@ -74,5 +74,18 @@
     "mimeType": "application/pdf",
     "nomFichierOriginal": "CASM - Questionnaire de santé 2026-2027.pdf",
     "sousDossier": "CSAM"
+  },
+  {
+    "nomDocument": "Historique des Vols",
+    "version": "V1",
+    "debutValidite": "2026-08-26",
+    "finValidite": "2027-08-26",
+    "miseEnLigne": "2026-08-27",
+    "auteur": "DE GOURNAY",
+    "uid": "pHmLDUCTUHRF810UECwG3c0hZsI3",
+    "fichier": "documents/Historique_des_Vols_V1.xlsx",
+    "sousDossier": "",
+    "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "nomFichierOriginal": "Historique_Vols_SSA_V1.xlsx"
   }
 ]
